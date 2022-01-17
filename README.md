@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Quanzat
+- 👀 I’m interested in technology and future technology innovation
+- 🌱 I’m currently learning Machine Learning and Computer Science
+- 📫 You can reach me through my emails: `tquan230802@gmail.com` or `qutran@ucsd.edu`
